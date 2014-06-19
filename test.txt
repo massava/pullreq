@@ -2,11 +2,7 @@
 <body>
 <h1>元気なGit勉強会</h1>
 <ul>
-	<li>池田</li>
-	<li>クー</li>
-	<li>ちくわ</li>
-	<li>元気</li>
-	<li>それは坂口</li>
+	<li>massava</li>
 </ul>
 
 </body>
