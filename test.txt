@@ -1,7 +1,10 @@
 <html>
 <body>
 <h1>元気なGit勉強会</h1>
-
+<<ul>
+	<li>池田</li>
+	<<li>クー</li>
+</ul>
 
 </body>
 </html>
