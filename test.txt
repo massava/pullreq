@@ -5,6 +5,7 @@
 	<li>池田</li>
 	<li>クー</li>
 	<li>ちくわ</li>
+	<li>元気</li>
 </ul>
 
 </body>
